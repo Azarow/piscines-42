@@ -1,0 +1,5 @@
+Credentials cache: API:DB0CA779-8B88-403F-8CB7-A18C952161EB
+        Principal: gulouis@42.FR
+
+		  Issued                Expires               Principal
+		  Aug 27 19:34:40 2018  Sep  3 19:34:35 2018  krbtgt/42.FR@42.FR
